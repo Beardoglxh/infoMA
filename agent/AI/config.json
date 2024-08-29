@@ -1,0 +1,27 @@
+{
+  "多功能": {
+    "max_speed": 300,
+    "min_speed": 100,
+    "accelerate": 2,
+    "overload": 6
+  },
+  "诱饵机": {
+    "max_speed": 240,
+    "min_speed": 150,
+    "accelerate": 0.6,
+    "overload": 4
+  },
+  "save_path": "./model",
+  "DBSCAN": {
+    "eps": 25000,
+    "min_sample": 2
+  },
+
+  "formation_attack": {
+    "attack_dis": 60000,
+    "attack_angle": 110
+  },
+  "env": {
+    "plane_num": 4
+  }
+}
